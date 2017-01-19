@@ -1,0 +1,2 @@
+# Ordenacion
+ardenas arreglos contenidos en datasheet preestablecidos y generar las comparacionoes e iteraciones en un archivo de excel, usado de esta manera librerias libxl o miniexcel, tambien se agregaran algoritmos de busqueda binaria y el metodo de ordenacion de intercalación  y sera agregado a un menudonde seran llamados dependiendo del tipo de metodo o funcion que se desea obtener entotal se agregaran 8 metodos de ordenacion 2 de busquedas y se usara la libreria libxl
